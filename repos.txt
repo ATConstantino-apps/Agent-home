@@ -1,0 +1,15 @@
+# One GitHub repo name per line (under GITHUB_ORG, default ATConstantino-apps).
+# Add a repo: append a line, run scripts/clone-all.sh, add a row to AGENTS.md.
+the-compound
+Spin_Solve
+kept
+room-planner
+home-assistant-workbench
+Sicily-2028
+Restaurant-LMS
+yellow-house-listing
+Mangia
+Champion_App
+Champion
+Tracker
+Recipes_Meal_Plan

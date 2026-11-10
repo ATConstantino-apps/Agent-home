@@ -1,0 +1,3 @@
+# Project checkouts. Clone them with scripts/clone-all.sh; never commit them here.
+/repos/*
+!/repos/.gitkeep
